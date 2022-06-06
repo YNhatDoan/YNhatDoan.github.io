@@ -1,0 +1,135 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Doan Y Nhat"
+  label: "Project Manager"
+  picture: "/assets/img/avatar.jpg"
+  email: "doanynhat.ftu@gmail.com"
+  phone: "(+84) 813355788"
+  website: "https://ynhatdoan.github.io"
+  summary: >
+    Innovative project manager with a proven track record of working with some big clients such as Sony,
+    EA, War Gaming, or Respawn Entertainment - understanding the strict requirement of quality and time
+    management as well as how to help the team meet that high standard by quality control processes and
+    team collaboration.<br>
+    Always practicing PMP and Agile knowledge at work, keen to listen, inspire and develop others. Proficient
+    in applying LEAN and CI tools to improve the whole pipeline process.
+  location:
+    address: ""
+    postalCode: ""
+    city: "Ho Chi Minh"
+    countryCode: "VN"
+    region: ""
+  profiles:
+    # - network: "Twitter"
+    #   username: "RHendricksCEO"
+    #   url: ""
+    - network: "LinkedIn"
+      username: "Nhat Doan"
+      url: "https://www.linkedin.com/in/doan-nhat-14329442/"
+work:
+  - company: "Glass Egg Digital Media"
+    position: "Producer / Project Manager"
+    website: "https://glassegg.com"
+    startDate: "2018"
+    endDate: "2020"
+    summary: >
+      Glass Egg - A Virtuos Studio is a 2D/3D art outsourcing studio and a game developer/publisher in the game industry.
+    highlights:
+      - "Be in charged with several well-known clients such as Sony, EA, Respawn US studio and involved into many titles: Real Racing, Spider-Man PS4, Medal of Honor, etc..."
+      - "Be responsible for all project management tasks, from planning to managing and monitoring through begining to closing phases."
+      - "Develop and keep team focusing on risk management to ensure the risk responses in place."
+  - company: "Arcon-Sunmark Production Ltd"
+    position: "Executive assistant to GD / Project coordinator"
+    startDate: "2017"
+    endDate: "2018"
+    summary: >
+      Arcon-Sunmark focus on production and installation of large-scale solar thermal systems for the district heating plantand process heating.
+    highlights:
+      - "Coordinate the resourcesin multiple functional departmentsto execute the matrix projects and report to General Director."
+      - "Be in charged and coordinate all continuous improvement activitiesin the factory."
+      - "Propose and support the optimization plan for production process."
+  - company: "Transinex Pte. Ltd"
+    position: "Program specialist"
+    startDate: "2015"
+    endDate: "2016"
+    summary: >
+      Specialist in group travel since 1972. Specialise in inbound and outbound group travels for schools, corp as well as churches.
+    highlights:
+      - "Create travel itinerary for group/school/business tours from Singapore, Malaysia to Viet Nam."
+      - "Have on-the-job training in Singapore for operation management."
+      - "Become a tour manager during onsite tours to ensure every details are well-prepared."
+# volunteer:
+#   - organization: "Viet Nam Youth Sustainable Development Forum"
+#     position: "Member"
+#     startDate: "2012-01-01"
+#     endDate: "2013-01-01"
+#     summary: "Global movement of free coding clubs for young people."
+#     highlights:
+#       - "Awarded 'Teacher of the Month'"
+education:
+  - institution: "Foreign Trade University"
+    area: "External Economics"
+    studyType: "Bachelor"
+    startDate: "2011"
+    endDate: "2014"
+awards:
+  - title: "PMP certified active member"
+    date: "2020"
+    awarder: "Project Management Institute"
+    # summary: "There is no spoon."
+  - title: "Certified LEAN Professional Training"
+    awarder: "Intel corporate"
+    # date: "2020"
+    # summary: "There is no spoon."
+# publications:
+#   - name: "Video compression for 3d media"
+#     publisher: "Hooli"
+#     releaseDate: "2014-10-01"
+#     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#     summary: "Innovative middle-out compression algorithm that changes the way we store data."
+skills:
+  - name: "Project Management"
+    level: "Master"
+    keywords:
+      - "Scrum"
+      - "Agile"
+      - "Risk Management"
+      - "Resource Management"
+  - name: "Office software"
+    level: "Intermediate"
+    keywords:
+      - "Word"
+      - "Excel"
+      - "Project"
+  - name: "Other tools"
+    level: "Intermediate"
+    keywords:
+      - "Shotgun"
+      - "Trello"
+      - "SVN"
+      - "Perforce"
+languages:
+  - language: "Vietnamese"
+    fluency: "Native speaker"
+  - language: "English"
+    fluency: "Full professional proficiency"
+interests:
+  # - name: "Wildlife"
+  #   keywords:
+  #     - "Ferrets"
+  #     - "Unicorns"
+  - name: "Nature"
+    keywords:
+      - "Tree"
+      - "Forest"
+  - name: "Education"
+    keywords:
+      - "Teaching"
+      - "SEL"
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.
