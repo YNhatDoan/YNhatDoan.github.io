@@ -9,12 +9,15 @@ basics:
   phone: "(+84) 813355788"
   website: "https://ynhatdoan.github.io"
   summary: >
-    Innovative project manager with a proven track record of working with some big clients such as Sony,
-    EA, War Gaming, or Respawn Entertainment - understanding the strict requirement of quality and time
-    management as well as how to help the team meet that high standard by quality control processes and
-    team collaboration.<br>
-    Always practicing PMP and Agile knowledge at work, keen to listen, inspire and develop others. Proficient
-    in applying LEAN and CI tools to improve the whole pipeline process.
+    Project manager with proven track record of working for some leading studios
+    such as Sony, EA, War Gaming, Respawn Entertainment which have strict
+    requirements in both time management and quality assurance.<br>
+    Understanding how to help the team meet such high standards of requirement
+    by quality control process, agile methodology and team collaboration.<br>
+    Always practice PMP and Agile knowledge in the project.<br>
+    Always pay attention to LEAN and Continuous Improvement tools to support the
+    whole pipeline process.<br>
+    Keen on listening, inspiring and developing people.<br>
   location:
     address: ""
     postalCode: ""
@@ -29,11 +32,42 @@ basics:
       username: "Nhat Doan"
       url: "https://www.linkedin.com/in/doan-nhat-14329442/"
 work:
+  - company: "Stylefit"
+    position: "Production Manager"
+    website: "https://stylefit.io/"
+    startDate: "2021-01-01"
+    endDate: "2022-01-01"
+    summary: >
+      StyleFit is a 3D furniture software company designed to help shoppers make
+      faster and more informed purchasing decisions and improve retailers
+      conversion rates all by enabling the shoppers to view furniture items in
+      their own home through their mobile device. 
+    highlights:
+      - "Handle all projects in production to satisfy the client's schedule and quality."
+      - "Create a master plan and roadmap for the production team, as well as handle Shotgun as daily progress tracking for all stakeholders."
+      - "Work with outsourcing team for extra resource if needed."
+      - "Troubleshoot any daily issues in production to make sure communications are clear and achievable."
+  - company: "Nam Trường Sơn - Kaspersky Education Foundation"
+    position: "Program supervisor"
+    website: ""
+    startDate: "2019-01-01"
+    endDate: "2020-01-01"
+    summary: >
+      Nam Trường Sơn - Kaspersky Education Foundation is an educational fund
+      aiming to reinforce the development of quality education in Vietnam.
+      <br>
+      As the program supervisor, I work closely with the local non-profit
+      organization to develop the project/programs that solve their current
+      issues and empower the growth of young generation.
+    highlights:
+      - "Be a part of Development Board to develop annual strategy for the foundation."
+      - "Be on behalf of the sponsor to communicate with local NPO/ educational organization before approve/ decline their proposal and supervise the on-going projects/programs."
+      - "Analyse and evaluate the final results & reports before the project/program ends."
   - company: "Glass Egg Digital Media"
     position: "Producer / Project Manager"
     website: "https://glassegg.com"
-    startDate: "2018"
-    endDate: "2020"
+    startDate: "2018-01-01"
+    endDate: "2020-01-01"
     summary: >
       Glass Egg - A Virtuos Studio is a 2D/3D art outsourcing studio and a game developer/publisher in the game industry.
     highlights:
@@ -42,20 +76,22 @@ work:
       - "Develop and keep team focusing on risk management to ensure the risk responses in place."
   - company: "Arcon-Sunmark Production Ltd"
     position: "Executive assistant to GD / Project coordinator"
-    startDate: "2017"
-    endDate: "2018"
+    startDate: "2017-01-01"
+    endDate: "2018-01-01"
     summary: >
-      Arcon-Sunmark focus on production and installation of large-scale solar thermal systems for the district heating plantand process heating.
+      Arcon-Sunmark focus on production and installation of large-scale solar
+      thermal systems for the district heating plantand process heating.
     highlights:
-      - "Coordinate the resourcesin multiple functional departmentsto execute the matrix projects and report to General Director."
+      - "Coordinate the resources in multiple functional departments to execute the matrix projects and report to General Director."
       - "Be in charged and coordinate all continuous improvement activitiesin the factory."
       - "Propose and support the optimization plan for production process."
   - company: "Transinex Pte. Ltd"
     position: "Program specialist"
-    startDate: "2015"
-    endDate: "2016"
+    startDate: "2015-01-01"
+    endDate: "2016-01-01"
     summary: >
-      Specialist in group travel since 1972. Specialise in inbound and outbound group travels for schools, corp as well as churches.
+      Singapore specialist in group travel since 1972. Specialise in inbound and
+      outbound group travels for schools, corp as well as churches.
     highlights:
       - "Create travel itinerary for group/school/business tours from Singapore, Malaysia to Viet Nam."
       - "Have on-the-job training in Singapore for operation management."
@@ -72,11 +108,11 @@ education:
   - institution: "Foreign Trade University"
     area: "External Economics"
     studyType: "Bachelor"
-    startDate: "2011"
-    endDate: "2014"
+    startDate: "2011-01-01"
+    endDate: "2014-01-01"
 awards:
   - title: "PMP certified active member"
-    date: "2020"
+    date: "2020-01-01"
     awarder: "Project Management Institute"
     # summary: "There is no spoon."
   - title: "Certified LEAN Professional Training"
@@ -127,7 +163,7 @@ interests:
   - name: "Education"
     keywords:
       - "Teaching"
-      - "SEL"
+      - "Social-Emotional Learning"
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >

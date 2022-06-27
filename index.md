@@ -7,6 +7,13 @@ cover: true
 
 Hi, welcome to my page! 🎉
 
+I'm glad that you come to my page. I am a PMP certified Project Manager with over 4 years experiences, especially in manufacturing and digital media (game) industry.
+
+Welcome, you can know more about me and my experience by going to my [Project]{:.heading.flip-title} or [Resume]{:.heading.flip-title} page, if you have any questions, please dont hesitate to reach out.
+
+[Project]: /projects/ 
+[Resume]: /resume/
+
 <!-- More than one year ago I was looking for a blogging platform but couldn't find it:
 One that would let me write posts in markdown with my own editor,
 one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
