@@ -9,15 +9,19 @@ basics:
   phone: "(+84) 813355788"
   website: "https://ynhatdoan.github.io"
   summary: >
-    Project manager with proven track record of working for some leading studios
+    - Project manager with proven track record of working for some leading studios
     such as Sony, EA, War Gaming, Respawn Entertainment which have strict
     requirements in both time management and quality assurance.<br>
-    Understanding how to help the team meet such high standards of requirement
-    by quality control process, agile methodology and team collaboration.<br>
-    Always practice PMP and Agile knowledge in the project.<br>
-    Always pay attention to LEAN and Continuous Improvement tools to support the
-    whole pipeline process.<br>
-    Keen on listening, inspiring and developing people.<br>
+
+    - Understand how to help the team meet high requirement by quality control,
+    agile methodology and team collaboration.<br>
+
+    - Keen on practicing PMP and Agile knowledge in the project.<br>
+
+    - Keen on LEAN and Continuous Improvement tools for supporting production
+    pipeline.<br>
+
+    - Keen on listening, inspiring and developing people.<br>
   location:
     address: ""
     postalCode: ""
@@ -43,10 +47,10 @@ work:
       conversion rates all by enabling the shoppers to view furniture items in
       their own home through their mobile device. 
     highlights:
-      - "Handle all projects in production to satisfy the client's schedule and quality."
-      - "Create a master plan and roadmap for the production team, as well as handle Shotgun as daily progress tracking for all stakeholders."
+      - "Handle all projects in production to satisfy client's schedule and quality."
+      - "Create master plan and roadmap for production team, as well as handle Shotgun as daily progress tracking for all stakeholders."
       - "Work with outsourcing team for extra resource if needed."
-      - "Troubleshoot any daily issues in production to make sure communications are clear and achievable."
+      - "Troubleshoot any daily issues in production to ensure communication lines are clear and achievable."
   - company: "Nam Trường Sơn - Kaspersky Education Foundation"
     position: "Program supervisor"
     website: ""
@@ -61,8 +65,8 @@ work:
       issues and empower the growth of young generation.
     highlights:
       - "Be a part of Development Board to develop annual strategy for the foundation."
-      - "Be on behalf of the sponsor to communicate with local NPO/ educational organization before approve/ decline their proposal and supervise the on-going projects/programs."
-      - "Analyse and evaluate the final results & reports before the project/program ends."
+      - "Be on behalf of the sponsor to communicate with local NPO/ educational organization before approving/ declining their proposal and supervising on-going projects/programs."
+      - "Analyse and evaluate the final results and reports before the project/program ends."
   - company: "Glass Egg Digital Media"
     position: "Producer / Project Manager"
     website: "https://glassegg.com"
@@ -72,7 +76,7 @@ work:
       Glass Egg - A Virtuos Studio is a 2D/3D art outsourcing studio and a game developer/publisher in the game industry.
     highlights:
       - "Be in charged with several well-known clients such as Sony, EA, Respawn US studio and involved into many titles: Real Racing, Spider-Man PS4, Medal of Honor, etc..."
-      - "Be responsible for all project management tasks, from planning to managing and monitoring through begining to closing phases."
+      - "Be responsible for all project phases, from planning to monitoring and closing the project."
       - "Develop and keep team focusing on risk management to ensure the risk responses in place."
   - company: "Arcon-Sunmark Production Ltd"
     position: "Executive assistant to GD / Project coordinator"
@@ -82,9 +86,9 @@ work:
       Arcon-Sunmark focuses on production and installation of large-scale solar
       thermal systems for the district heating plantand process heating.
     highlights:
-      - "Coordinate the resources in multiple functional departments to execute the matrix projects and report to General Director."
-      - "Be in charged and coordinate all continuous improvement activitiesin the factory."
-      - "Propose and support the optimization plan for production process."
+      - "Coordinate different functional departments to execute the cross projects and report the progress to General Director."
+      - "Be in charged and coordinate all continuous improvement activities in the factory."
+      - "Support optimization project for production department."
   - company: "Transinex Pte. Ltd"
     position: "Program specialist"
     startDate: "2015-01-01"
@@ -95,7 +99,7 @@ work:
     highlights:
       - "Create travel itinerary for group/school/business tours from Singapore, Malaysia to Viet Nam."
       - "Have on-the-job training in Singapore for operation management."
-      - "Become a tour manager during onsite tours to ensure every details are well-prepared."
+      - "Become a tour manager during onsite tours to ensure the trips are well-prepared."
 # volunteer:
 #   - organization: "Viet Nam Youth Sustainable Development Forum"
 #     position: "Member"
