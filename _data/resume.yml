@@ -10,8 +10,8 @@ basics:
   website: "https://ynhatdoan.github.io"
   summary: >
     - Project manager with proven track record of working for some leading studios
-    such as Sony, EA, War Gaming, Respawn Entertainment which have strict
-    requirements in both time management and quality assurance.<br>
+    such as Sony, EA, War Gaming, Respawn Entertainment, Epic Games which have
+    strict requirements in both time management and quality assurance.<br>
 
     - Understand how to help the team meet high requirement by quality control,
     agile methodology and team collaboration.<br>
@@ -36,6 +36,20 @@ basics:
       username: "Nhat Doan"
       url: "https://www.linkedin.com/in/doan-nhat-14329442/"
 work:
+  - company: "Geotech"
+    position: "Project Manager"
+    website: "https://www.geotech.one"
+    startDate: "2022-01-01"
+    endDate: "Now"
+    summary: >
+      GeoTech is a Tech-company that develops integration tools for new technologies
+      and gaming platforms for Unreal Engine.
+    highlights:
+      - "As a project manager in GeoTech, I will work closely with GeoTech team
+      and Clients to transfer goals into actionable plans, identify bottlenecks
+      before they happen and tasks delivered in time frame manner.  It is
+      important to be an effective process owner for the team and act as a
+      primary communication point between teams as needed."
   - company: "Stylefit"
     position: "Production Manager"
     website: "https://stylefit.io/"
@@ -150,6 +164,8 @@ skills:
       - "Trello"
       - "SVN"
       - "Perforce"
+      - "Jira"
+      - "Confluence"
 languages:
   - language: "Vietnamese"
     fluency: "Native speaker"
