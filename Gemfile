@@ -12,6 +12,7 @@ gem "jekyll", "~> 3.8"
 
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
+gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 
 group :jekyll_plugins do
   gem "github-pages"
