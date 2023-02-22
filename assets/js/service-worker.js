@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.1.6--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2023-02-22T22:35:26+07:00--sw/";
+const CONTENT_CACHE = "content--2023-02-22T22:47:20+07:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -364,6 +364,10 @@ const STATIC_FILES = [
   /**/"/assets/version.json",
   /**/"/package-lock.json",
   /**/"/package.json",
+  /**/"/assets/bower_components/MathJax/.bower.json",
+  /**/"/assets/bower_components/html5shiv/.bower.json",
+  /**/"/assets/bower_components/katex/.bower.json",
+  /**/"/assets/js/.gitkeep",
   /**/
 ];
 
