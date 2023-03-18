@@ -3,9 +3,7 @@ layout: resume
 title: Résumé*
 permalink: /resume/
 description: >
-    I'm Nhat Doan, an innovative project manager with a proven track record of
-    working with some big clients such as Sony, EA, War Gaming, or Respawn
-    Entertainment.<br>
+    I'm Nhat Doan, an innovative project manager with proven track records of working with some big clients such as Sony, EA, War Gaming, or Respawn Entertainment.<br>
 hide_description: true
 sidebar: true
 order: 5
