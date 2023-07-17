@@ -36,11 +36,25 @@ basics:
       username: "Nhat Doan"
       url: "https://www.linkedin.com/in/doan-nhat-14329442/"
 work:
+  - company: "ZaloPay"
+    position: "Project Manager (Agile PMO)"
+    website: "https://zalopay.vn"
+    startDate: "2023-01-01"
+    endDate: "Now"
+    summary: >
+      ZaloPay, the financial services arm of the internet firm VNG, operates as a standalone mobile payment app and has tied up with Visa, Mastercard, and 39 domestic banks. ZaloPay is also an integrated payment feature in the Zalo messaging app. This is the latest development in the competitive landscape of e-wallets.
+    highlights:
+      - "Create and manage release plan for multiple engineering teams. Ensure it is integrated to the wider portfolio end-to-end release plan."
+      - "Manage risks, issues, dependencies and continuous improvement actions for squads under your working areas."
+      - "Provide status reports regarding milestone, deliverables, RAID (Risk, Assumption, Issues, Dependencies), and communicating across stakeholders."
+      - "Manage the team capacity and advise roadmap, timelines to Product Owner and other Business Stakeholders."
+      - "Ability to create and maintain relationships with wide range of stakeholders (Product Owner, Business Owners, Technical Heads)."
+      - "Communicated effectively across all levels of the organization."
   - company: "Geotech"
     position: "Project Manager"
     website: "https://www.geotech.one"
     startDate: "2022-01-01"
-    endDate: "Now"
+    endDate: "2023-01-01"
     summary: >
       GeoTech is a Tech-company that develops integration tools for new technologies
       and gaming platforms for Unreal Engine.
@@ -130,6 +144,15 @@ education:
     startDate: "2011-01-01"
     endDate: "2014-01-01"
 awards:
+  - title: "JIRA fundementals Badge"
+    date: "2023-01-01"
+    awarder: "Atlassian"
+  - title: "Writing Complex JQL Queries Badge"
+    date: "2023-01-01"
+    awarder: "Atlassian"
+  - title: "Confluence fundementals Badge"
+    date: "2023-01-01"
+    awarder: "Atlassian"
   - title: "PMP certified active member"
     date: "2020-01-01"
     awarder: "Project Management Institute"
@@ -152,6 +175,8 @@ skills:
       - "Agile"
       - "Risk Management"
       - "Resource Management"
+      - "Continuous Improvement"
+      - "Program Management"
   - name: "Office software"
     level: "Intermediate"
     keywords:

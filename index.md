@@ -7,7 +7,7 @@ cover: true
 
 Hi, welcome to my page! 🎉
 
-I'm glad that you come to my page. I am a PMP certified Project Manager with over 4 years experiences, especially in manufacturing and digital media (game) industry.
+I'm glad that you come to my page. I am a PMP certified Project Manager with over 5 years experiences, especially in manufacturing and digital media (game) industry.
 
 Welcome, you can know more about me and my experience by going to my [Project]{:.heading.flip-title} or [Resume]{:.heading.flip-title} page, if you have any questions, please dont hesitate to reach out.
 
