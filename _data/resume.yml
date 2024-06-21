@@ -36,11 +36,28 @@ basics:
       username: "Nhat Doan"
       url: "https://www.linkedin.com/in/doan-nhat-14329442/"
 work:
+  - company: "Bootloader"
+    position: "Project Manager Lead"
+    website: "https://bootloader.studio"
+    startDate: "2023-11-01"
+    endDate: ""
+    summary: >
+      Bootloader is a pioneering startup focused on enhancing digital lives through emotionally engaging digital companions.
+      <br>
+      Leveraging cutting-edge technologies like the Apple Vision Pro and advanced AI, we aim to establish a new category of interactive digital experiences that foster genuine connections.
+    highlights:
+      - "Production process management, contribute to the production process with the Senior Management team."
+      - "Build the Product Roadmap and Production timeline."
+      - "Provide input and output from cross-team planning."
+      - "Monitor and report on the progress of projects to the producer, contributing to effective decision-making."
+      - "Facilitate alignment within the agile methodology, supporting cross-functional collaboration and adaptability."
+      - "Align the sprint goals of different teams to make sure all goals are towards the target/ milestone expectation."
+      - "Coordinate scheduling and track deliverables across different squads."
   - company: "ZaloPay"
     position: "Project Manager (Agile PMO)"
     website: "https://zalopay.vn"
     startDate: "2023-01-01"
-    endDate: "Now"
+    endDate: "2023-11-01"
     summary: >
       ZaloPay, the financial services arm of the internet firm VNG, operates as a standalone mobile payment app and has tied up with Visa, Mastercard, and 39 domestic banks. ZaloPay is also an integrated payment feature in the Zalo messaging app. This is the latest development in the competitive landscape of e-wallets.
     highlights:
@@ -64,37 +81,37 @@ work:
       - "Communicate with Epic Games to ensure we understand the requirements for resource demand and allocate the right people for Epic projects."
       - "Handle partnership workflows with Epic to maintain a sustainable relationship with them."
       - "Change management and risk management."
-  - company: "Stylefit"
-    position: "Production Manager"
-    website: "https://stylefit.io/"
-    startDate: "2021-01-01"
-    endDate: "2022-01-01"
-    summary: >
-      StyleFit is a 3D furniture software company designed to help shoppers make
-      faster and more informed purchasing decisions and improve retailers
-      conversion rates all by enabling the shoppers to view furniture items in
-      their own home through their mobile device. 
-    highlights:
-      - "Handle all projects in production to satisfy client's schedule and quality."
-      - "Create master plan and roadmap for production, as well as handle Shotgun as daily progress tracking for all stakeholders."
-      - "Work with outsourcing team for extra resource if needed."
-      - "Troubleshoot any daily issues in production to ensure communication lines are clear and achievable."
-  - company: "Nam Trường Sơn - Kaspersky Education Foundation"
-    position: "Program supervisor"
-    website: ""
-    startDate: "2019-01-01"
-    endDate: "2020-01-01"
-    summary: >
-      Nam Trường Sơn - Kaspersky Education Foundation is an educational fund
-      aiming to reinforce the development of quality education in Vietnam.
-      <br>
-      As the program supervisor, I work closely with the local non-profit
-      organization to develop the project/programs that solve their current
-      issues and empower the growth of young generation.
-    highlights:
-      - "Be a part of Development Board to develop annual strategy for the foundation."
-      - "Be on behalf of the sponsor to communicate with local NPO/ educational organization before approving/ declining their proposal and supervising on-going projects/programs."
-      - "Analyse and evaluate the final results and reports before the project/program ends."
+  # - company: "Stylefit"
+  #   position: "Production Manager"
+  #   website: "https://stylefit.io/"
+  #   startDate: "2021-01-01"
+  #   endDate: "2022-01-01"
+  #   summary: >
+  #     StyleFit is a 3D furniture software company designed to help shoppers make
+  #     faster and more informed purchasing decisions and improve retailers
+  #     conversion rates all by enabling the shoppers to view furniture items in
+  #     their own home through their mobile device. 
+  #   highlights:
+  #     - "Handle all projects in production to satisfy client's schedule and quality."
+  #     - "Create master plan and roadmap for production, as well as handle Shotgun as daily progress tracking for all stakeholders."
+  #     - "Work with outsourcing team for extra resource if needed."
+  #     - "Troubleshoot any daily issues in production to ensure communication lines are clear and achievable."
+  # - company: "Nam Trường Sơn - Kaspersky Education Foundation"
+  #   position: "Program supervisor"
+  #   website: ""
+  #   startDate: "2019-01-01"
+  #   endDate: "2020-01-01"
+  #   summary: >
+  #     Nam Trường Sơn - Kaspersky Education Foundation is an educational fund
+  #     aiming to reinforce the development of quality education in Vietnam.
+  #     <br>
+  #     As the program supervisor, I work closely with the local non-profit
+  #     organization to develop the project/programs that solve their current
+  #     issues and empower the growth of young generation.
+  #   highlights:
+  #     - "Be a part of Development Board to develop annual strategy for the foundation."
+  #     - "Be on behalf of the sponsor to communicate with local NPO/ educational organization before approving/ declining their proposal and supervising on-going projects/programs."
+  #     - "Analyse and evaluate the final results and reports before the project/program ends."
   - company: "Glass Egg Digital Media"
     position: "Producer / Project Manager"
     website: "https://glassegg.com"
@@ -118,17 +135,17 @@ work:
       - "Coordinate different functional departments to execute the cross projects and report the progress to General Director."
       - "Be in charged and coordinate all continuous improvement activities in the factory."
       - "Support optimization project for production department."
-  - company: "Transinex Pte. Ltd"
-    position: "Program specialist"
-    startDate: "2015-01-01"
-    endDate: "2016-01-01"
-    summary: >
-      Singapore specialist in group travel since 1972. Specialise in inbound and
-      outbound group travels for schools, corp as well as churches.
-    highlights:
-      - "Create travel itinerary for group/school/business tours from Singapore, Malaysia to Viet Nam."
-      - "Have on-the-job training in Singapore for operation management."
-      - "Become a tour manager during onsite tours to ensure the trips are well-prepared."
+  # - company: "Transinex Pte. Ltd"
+  #   position: "Program specialist"
+  #   startDate: "2015-01-01"
+  #   endDate: "2016-01-01"
+  #   summary: >
+  #     Singapore specialist in group travel since 1972. Specialise in inbound and
+  #     outbound group travels for schools, corp as well as churches.
+  #   highlights:
+  #     - "Create travel itinerary for group/school/business tours from Singapore, Malaysia to Viet Nam."
+  #     - "Have on-the-job training in Singapore for operation management."
+  #     - "Become a tour manager during onsite tours to ensure the trips are well-prepared."
 # volunteer:
 #   - organization: "Viet Nam Youth Sustainable Development Forum"
 #     position: "Member"
