@@ -3,25 +3,25 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Doan Y Nhat"
-  label: "Project Manager"
+  label: "Game Producer - Project Manager"
   picture: "/assets/img/avatar.jpg"
   email: "doanynhat.ftu@gmail.com"
   phone: "(+84) 813355788"
   website: "https://ynhatdoan.github.io"
   summary: >
-    - Project manager with proven track records of working for some leading studios
-    such as Sony, EA, War Gaming, Respawn Entertainment, Epic Games which have
-    strict requirements in both time management and quality assurance.<br>
+    - As a producer, I take care of all aspects of a full product development
+    cycle, from creative concept to app-store release. With solid understanding
+    of Agile, LEAN and continuous development, I am always eager to apply tools
+    and techniques to overcome obstacles at work. My mission is to ensure
+    everyone in the team understands the product goals and backlog priority. My
+    vision is being a better producer everyday.<br>
 
-    - Understand how to help the team meet high requirements by quality control,
-    agile methodology and team collaboration.<br>
+    - In the past, I was an experienced outsourcing project manager with a proven
+    track of record of collaboration with leading studios such as Sony, EA,
+    Wargaming, Respawn Entertainment and Epic Games, which require adherence to
+    strict timelines and quality assurance standards.<br>
 
-    - Keen on practicing PMP and Agile knowledge in the project.<br>
-
-    - Keen on LEAN and Continuous Improvement tools for supporting production
-    pipeline.<br>
-
-    - Keen on listening, inspiring and developing people.<br>
+    - My life motto are being kind, listening, inspiring and developing people.<br>
   location:
     address: ""
     postalCode: ""
@@ -37,22 +37,45 @@ basics:
       url: "https://www.linkedin.com/in/doan-nhat-14329442/"
 work:
   - company: "Bootloader"
-    position: "Project Manager Lead"
+    position: "Producer"
     website: "https://bootloader.studio"
-    startDate: "2023-11-01"
+    startDate: "2024-11-01"
     endDate: ""
     summary: >
       Bootloader is a pioneering startup focused on enhancing digital lives through emotionally engaging digital companions.
       <br>
       Leveraging cutting-edge technologies like the Apple Vision Pro and advanced AI, we aim to establish a new category of interactive digital experiences that foster genuine connections.
     highlights:
-      - "Production process management, contribute to the production process with the Senior Management team."
+      - "Oversee and coordinate all aspects of product development from design team to engineering, animation & art production."
+      - "Ensure the project stays on track & aligns with company's strategic goals."
+      - "Act as a bridge between different departments and stakeholders."
+      - "Organize All-Hands meetings to share visions & actionable plans with CEO & senior levels."
+  - company: "Bootloader"
+    position: "Project Manager Lead"
+    website: "https://bootloader.studio"
+    startDate: "2024-11-01"
+    endDate: ""
+    summary: ""
+    highlights:
+      - "Extended the role to include PM lead responsibilities while maintaining all PM duties"
+      - "Collaborated with senior executives in product design meetings to align team efforts toward common objectives."
+      - "Facilitated planning meetings with all teams to clarify expected outcomes from the CEO and ensure effective execution of work."
+      - "Provided weekly progress and risk management reports to the CEO to monitor production status."
+      - "Organize triage meetings to discuss and prioritize product feedback before distributing work backlog to functional teams."
+  - company: "Bootloader"
+    position: "Project Manager / Program Management Office"
+    website: "https://bootloader.studio"
+    startDate: "2023-11-01"
+    endDate: "2024-05-01"
+    summary: ""
+    highlights:
       - "Build the Product Roadmap and Production timeline."
-      - "Provide input and output from cross-team planning."
-      - "Monitor and report on the progress of projects to the producer, contributing to effective decision-making."
-      - "Facilitate alignment within the agile methodology, supporting cross-functional collaboration and adaptability."
-      - "Align the sprint goals of different teams to make sure all goals are towards the target/ milestone expectation."
-      - "Coordinate scheduling and track deliverables across different squads."
+      - "Act as a communication bridge between team leaders and senior executives."
+      - "Provide input and output from senior levels in cross-team planning."
+      - "Align sprint goals across teams to meet targets."
+      - "Ensure proper execution of sprint planning and review meetings."
+      - "Resolve misalignments and miscommunication issues in production."
+      - "Keep Product Confluence pages updated."
   - company: "ZaloPay"
     position: "Project Manager (Agile PMO)"
     website: "https://zalopay.vn"
