@@ -9,19 +9,20 @@ basics:
   phone: "(+84) 813355788"
   website: "https://ynhatdoan.github.io"
   summary: >
-    - As a producer, I take care of all aspects of a full product development
-    cycle, from creative concept to app-store release. With solid understanding
-    of Agile, LEAN and continuous development, I am always eager to apply tools
-    and techniques to overcome obstacles at work. My mission is to ensure
-    everyone in the team understands the product goals and backlog priority. My
-    vision is being a better producer everyday.<br>
+    - As a Producer, I manage the entire product development lifecycle, from
+    initial concept to app store release. I leverage a solid understanding of
+    Agile, LEAN, and continuous development methodologies to navigate challenges
+    and ensure our team always understands product goals and backlog
+    priorities.<br>
 
-    - In the past, I was an experienced outsourcing project manager with a proven
-    track of record of collaboration with leading studios such as Sony, EA,
-    Wargaming, Respawn Entertainment and Epic Games, which require adherence to
-    strict timelines and quality assurance standards.<br>
+    - Previously, I honed my project management skills as an outsourcing project
+    manager, collaborating with industry-leading studios like Sony, EA,
+    Wargaming, Respawn Entertainment, and Epic Games, consistently delivering
+    projects that met strict timelines and quality standards.<br>
 
-    - My life motto are being kind, listening, inspiring and developing people.<br>
+    - My vision is to continually be a better game producer everyday. Throughout
+    my career, I have lived by the motto of being kind, active listening,
+    inspiring and uplifting others.<br>
   location:
     address: ""
     postalCode: ""
@@ -44,26 +45,23 @@ work:
     summary: >
       Bootloader is a pioneering startup focused on enhancing digital lives through emotionally engaging digital companions.
       <br>
-      Leveraging cutting-edge technologies like the Apple Vision Pro and advanced AI, we aim to establish a new category of interactive digital experiences that foster genuine connections.
+      Leveraging cutting-edge technologies like the Apple Vision Pro and
+      advanced AI, we aim to establish a new category of interactive digital
+      experiences that foster genuine connections.
+      <br> 
+      As a Producer, I lead and coordinate our cross-disciplinary team to
+      consistently deliver high-quality, innovative software on a reliable
+      cadence. As a team, we are honored to receive the Apple Design Award in
+      Innovation 2025. My core responsibilities include:
     highlights:
-      - "Oversee and coordinate all aspects of product development from design team to engineering, animation & art production."
-      - "Ensure the project stays on track & aligns with company's strategic goals."
-      - "Act as a bridge between different departments and stakeholders."
-      - "Organize All-Hands meetings to share visions & actionable plans with CEO & senior levels."
+      - "Strategic Planning and Execution: Building product roadmap and production planning.  Leading sprint planning, breaking down product features into actionable tasks, maintaining clear priorities through daily stand-ups and backlog management."
+      - "Cross-Functional Leadership: Ensure seamless collaboration across diverse teams, including concepts, designers, artists, animators, audio designers, engineers, AI engineers and product ops. I facilitate crucial alignment meetings to proactively resolve scope issues, scheduling conflicts, and resource dependencies, ensuring all internal initiatives align with overarching production goals."
+      - "Quality Assurance and Reporting: Partnering with QA to build and maintain release standards, manage bug triage, and guarantee consistently high product quality. I establish and maintain comprehensive project documentation, dashboards, and Jira reports, providing executive leadership with clear visibility into progress, risks, and key metrics."
+      - "Process Optimization: Continuously refining Agile methodologies, including sprint man- agement, change management and playtesting cycles, to enhance efficiency and accuracy. I contribute to the development of Standard Operating Procedures (SOPs) and champion a culture of continuous improvement across the team."
+      - "Operational Excellence: Proactively identifying and removing blockers, clarifying require- ments, managing dependencies, and escalating issues to maintain project momentum. I also coordinate the development and integration of core internal platform components that accelerate feature development."
+      - "Stakeholder Communication: Serving as the primary point of contact for daily production needs, ensuring timely and effective communication with senior leadership and key stakeholders."
   - company: "Bootloader"
-    position: "Project Manager Lead"
-    website: "https://bootloader.studio"
-    startDate: "2024-11-01"
-    endDate: ""
-    summary: ""
-    highlights:
-      - "Extended the role to include PM lead responsibilities while maintaining all PM duties"
-      - "Collaborated with senior executives in product design meetings to align team efforts toward common objectives."
-      - "Facilitated planning meetings with all teams to clarify expected outcomes from the CEO and ensure effective execution of work."
-      - "Provided weekly progress and risk management reports to the CEO to monitor production status."
-      - "Organize triage meetings to discuss and prioritize product feedback before distributing work backlog to functional teams."
-  - company: "Bootloader"
-    position: "Project Manager / Program Management Office"
+    position: "Project Manager / PMO"
     website: "https://bootloader.studio"
     startDate: "2023-11-01"
     endDate: "2024-05-01"
