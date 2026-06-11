@@ -37,11 +37,31 @@ basics:
       username: "Nhat Doan"
       url: "https://www.linkedin.com/in/doan-nhat-14329442/"
 work:
+  - company: "Gear Games"
+    position: "Game Producer"
+    website: "https://www.geargames.com/"
+    startDate: "2026-11-01"
+    endDate: ""
+    summary: >
+      Gear Games is a major mobile game development and full-cycle studio with global locations. We handle full-cycle game development, live-ops, and QA for our own in-house projects (such as card-battler title Arcane Rush) and provide co-development/live-ops support for major industry giants like Riot Games, Scopely, and Rovio.
+    highlights:
+      - "Be responsible for successful milestone execution across multiple departments."
+      - "Own planning domain: Take on mid-level planning and create realistic project schedules for the teams, including work breakdown, task costing setting key dates and reviews."
+      - "Own project roadmap: breakdown game features into actionable steps, identify and manage dependencies."
+      - "Resource Management: Track capacity and velocity to identify constraints and improve efficiency."
+      - "Optimize Pipelines: Suggest and implement process improvements for smoother cross-discipline collaboration."
+      - "Facilitate Production Meetings: Lead sprint planning, retrospectives, feature kickoffs, and others as needed."
+      - "Anticipate potential risks, proactively develop mitigation strategies, and propose solutions to leadership team when risk arises."
+      - "Maintain a positive working environment by addressing conflicts swiftly and collaboratively."
+      - "Keep stakeholders, senior leadership, and team members informed with clear, timely updates on project progress & project reports."
+      - "Jump In Where Needed: Provide support across design, 3D Art, Tech-Art, Client engineer, Server engineer, LiveOps operator and QA."
+      - "Ensure the game aligns with the client's vision and meets the release SOW & quality standards."
+      - "Serve as a point of contact for milestone production and production initiatives."
   - company: "Bootloader"
     position: "Producer"
     website: "https://bootloader.studio"
     startDate: "2024-11-01"
-    endDate: ""
+    endDate: "2026-01-01"
     summary: >
       Bootloader is a pioneering startup focused on enhancing digital lives through emotionally engaging digital companions.
       <br>
